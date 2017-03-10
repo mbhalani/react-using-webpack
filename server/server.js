@@ -1,4 +1,5 @@
 // server.js
+console.log('ENTRY - server.js file!');
 
 const path = require('path');
 const express = require('express');
